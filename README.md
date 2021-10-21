@@ -13,9 +13,9 @@ This space (in Spanish) is to collaborate with Security and technologies like Do
 
 ### Acknowledgments
 
-* Comenta a otros sobre este profile 📢
-* Invita una cerveza 🍺 o un café ☕  
-* Da las gracias públicamente 🤓
+* Comment to others about this profile 📢
+* Invite a Beer 🍺 or a coffee ☕  
+* You publicly thank us 🤓
 
 &nbsp;
 &nbsp;
@@ -29,19 +29,3 @@ ____
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=parrot26&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<!--
-**parrot26/parrot26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
