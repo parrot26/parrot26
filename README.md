@@ -14,7 +14,7 @@ This space (in Spanish) is to collaborate with Security and technologies like Do
 ### Acknowledgments
 
 * Comment to others about this profile 📢
-* Invite a Beer 🍺 or a coffee ☕  
+* Invite a [Coffee](https://ko-fi.com/juanpablosoto) ☕  
 * You publicly thank us 🤓
 
 &nbsp;
@@ -23,9 +23,21 @@ This space (in Spanish) is to collaborate with Security and technologies like Do
 ### Contact me :black_nib:
 - :earth_americas: [Argentina](https://www.google.com.ar/maps/place/Argentina/@-37.0144034,-81.6719263,4z/data=!3m1!4b1!4m5!3m4!1s0x95bccaf5f5fdc667:0x3d2f77992af00fa8!8m2!3d-38.416097!4d-63.616672)
 - :envelope_with_arrow: juanpablo.soto@protonmail.com
-- :link: [Linkedin](www.linkedin.com/in/juanpablosoto26)
+- :link: [Web](https://juanpablosoto.com.ar)
 
 ____
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=parrot26&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+____
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('juanpablosoto', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#ff5f5f',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
