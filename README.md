@@ -3,10 +3,10 @@
 ____
 ### Hi there 👋
 
-My name is Juan Pablo, I'm from Argentina and long ago dedicated to IT Security.
+My name is Juan Pablo, I am from Argentina, and I have been dedicated to Cybersecurity for several years. 
 
-Currently in the Cloud Computer and Micro-Services world.
-This space (in Spanish) is to collaborate with Security and technologies like Docker, Kubernetes, GCP, Git and more.
+I hold a Technical Degree in Cybersecurity (UNSO) and am a Certified Ethical Hacker (UTN) with over 10 years of experience in protecting systems and networks. I specialize in penetration testing and cloud security solutions. I am passionate about detecting and mitigating cyber threats.
+
 
 &nbsp;
 &nbsp;
