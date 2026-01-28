@@ -3,9 +3,9 @@
 ____
 ### Hi there 👋
 
-My name is Juan Pablo, I am from Argentina, and I have been dedicated to Cybersecurity for several years. 
+My name is Juan Pablo, I am from Argentina, and I have been working in cybersecurity for several years.
 
-I hold a Technical Degree in Cybersecurity (UNSO) and am a Certified Ethical Hacker (UTN) with over 10 years of experience in protecting systems and networks. I specialize in penetration testing and cloud security solutions. I am passionate about detecting and mitigating cyber threats.
+I have a degree in Cybersecurity (UNSO) and am a Certified Ethical Hacker (UTN) with over 10 years of experience in protecting systems and networks. I specialize in penetration testing and cloud security solutions. I am passionate about detecting and mitigating cyber threats.
 
 
 &nbsp;
